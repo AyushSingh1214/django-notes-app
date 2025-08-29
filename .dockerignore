@@ -13,7 +13,7 @@ __pycache__/
 .git
 .gitignore
 
-# Ignore virtual environment & env files !!!
+# Ignore virtual environment & env files 
 venv/
 .env
 *.env
