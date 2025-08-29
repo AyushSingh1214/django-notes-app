@@ -1,6 +1,8 @@
 # Ignore database/data files
 data/
 *.dblwr
+*.db
+*.sqlite3
 
 # Ignore python cache
 __pycache__/
@@ -11,7 +13,7 @@ __pycache__/
 .git
 .gitignore
 
-# Ignore virtual environment
+# Ignore virtual environment & env files
 venv/
 .env
-
+*.env
