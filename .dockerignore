@@ -1,0 +1,17 @@
+# Ignore database/data files
+data/
+*.dblwr
+
+# Ignore python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore git files
+.git
+.gitignore
+
+# Ignore virtual environment
+venv/
+.env
+
