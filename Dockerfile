@@ -4,7 +4,7 @@ FROM python:3.9
 # Set working directory
 WORKDIR /app
 
-# Copy requirements
+# Copy requirements and test
 COPY requirements.txt /app/
 
 # Install system dependencies
